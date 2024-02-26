@@ -22,6 +22,8 @@ ul, ol {
 a {
   color: currentColor;
   text-decoration: none;
+  display: flex;
+  margin-bottom: 20px;
 }
 
 button {
